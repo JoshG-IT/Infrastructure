@@ -108,15 +108,15 @@ It is designed for **hands-on training and demonstration**, showing how a Window
 ## Screenshots (Optional)
 | Image | Description |
 |--------|-------------|
-| INSERT SCREENSHOT HERE | Resource Group created |
-| INSERT SCREENSHOT HERE | Virtual Network `vnet-adlab` created |
-| INSERT SCREENSHOT HERE | NSG rule allowing RDP from instructor IP |
-| INSERT SCREENSHOT HERE | Windows Server 2022 deployed as DC01 |
-| INSERT SCREENSHOT HERE | Windows 11 client joined to domain |
-| INSERT SCREENSHOT HERE | Control Panel GPO enforced |
-| INSERT SCREENSHOT HERE | Wallpaper GPO applied |
-| INSERT SCREENSHOT HERE | RDP allowed for HR User |
-| INSERT SCREENSHOT HERE | Azure Cost Analysis after cleanup |
+| <img width="210" height="66" alt="image" src="https://github.com/user-attachments/assets/61272045-47aa-41e5-86f3-e6dcf7141aad" /> | Resource Group created |
+| <img width="365" height="271" alt="image" src="https://github.com/user-attachments/assets/28620f35-0bb2-417e-b0e8-f80a76f72ebc" /> | Virtual Network `vnet-adlab` created |
+| <img width="249" height="215" alt="image" src="https://github.com/user-attachments/assets/07ab7b57-8284-442c-9151-e75e373702ec" /> | NSG rule allowing RDP from instructor IP |
+| <img width="450" height="143" alt="image" src="https://github.com/user-attachments/assets/c5a70aa3-30a8-4282-80b5-102585f10848" /> | Windows Server 2022 (DC01) promoted to domain controller |
+| <img width="426" height="492" alt="image" src="https://github.com/user-attachments/assets/5ae35e43-c5b2-43b8-9a9a-01eb5cdc7cfb" /> | Windows 11 client joined to domain |
+| <img width="446" height="100" alt="image" src="https://github.com/user-attachments/assets/a10693b9-bd5e-4c82-887f-5ae0d1efc11a" /> | Control Panel GPO enforced |
+| <img width="312" height="117" alt="image" src="https://github.com/user-attachments/assets/db93cd2c-c1d0-4b25-8896-e35014960a87" /> | Task Manager GPO enforced |
+| <img width="728" height="377" alt="image" src="https://github.com/user-attachments/assets/c360d48a-5b38-4a77-bcb9-d2fdd1939b01" /> | RDP allowed for HR user and Wallpaper GPO applied |
+| <img width="679" height="590" alt="image" src="https://github.com/user-attachments/assets/8cb37a52-6c78-434d-8615-3a09627cd4df" /> | Azure Cost Analysis after cleanup |
 
 ---
 
